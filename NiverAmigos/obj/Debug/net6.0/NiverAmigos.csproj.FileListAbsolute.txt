@@ -1,0 +1,80 @@
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\bin\Debug\net6.0\appsettings.json
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.staticwebassets.runtime.json
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.exe
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.deps.json
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.runtimeconfig.json
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.dll
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.pdb
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.Application.dll
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.Entidade.dll
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.Application.pdb
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.Entidade.pdb
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.csproj.AssemblyReference.cache
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.AssemblyInfoInputs.cache
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.AssemblyInfo.cs
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.csproj.CoreCompileInputs.cache
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.RazorAssemblyInfo.cache
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.RazorAssemblyInfo.cs
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\staticwebassets\msbuild.NiverAmigos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\staticwebassets\msbuild.build.NiverAmigos.props
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NiverAmigos.props
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NiverAmigos.props
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\scopedcss\bundle\NiverAmigos.styles.css
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\scopedcss\projectbundle\NiverAmigos.bundle.scp.css
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.csproj.CopyComplete
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.dll
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\refint\NiverAmigos.dll
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.pdb
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.genruntimeconfig.cache
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos\obj\Debug\net6.0\ref\NiverAmigos.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\bin\Debug\net6.0\appsettings.json
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.staticwebassets.runtime.json
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.exe
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.deps.json
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.runtimeconfig.json
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.pdb
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.Application.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.Entidade.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.Application.pdb
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.Entidade.pdb
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.csproj.AssemblyReference.cache
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.AssemblyInfoInputs.cache
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.AssemblyInfo.cs
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.csproj.CoreCompileInputs.cache
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.RazorAssemblyInfo.cache
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.RazorAssemblyInfo.cs
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\staticwebassets\msbuild.NiverAmigos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\staticwebassets\msbuild.build.NiverAmigos.props
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NiverAmigos.props
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NiverAmigos.props
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\scopedcss\bundle\NiverAmigos.styles.css
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\scopedcss\projectbundle\NiverAmigos.bundle.scp.css
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.csproj.CopyComplete
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\refint\NiverAmigos.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.pdb
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\NiverAmigos.genruntimeconfig.cache
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\obj\Debug\net6.0\ref\NiverAmigos.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.Database.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos\bin\Debug\net6.0\NiverAmigos.Database.pdb

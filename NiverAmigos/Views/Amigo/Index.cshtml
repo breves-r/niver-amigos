@@ -1,0 +1,53 @@
+﻿@using NiverAmigos.Entidade
+
+
+<form method="get" asp-controller="Amigo" asp-action="Search">
+    <div class="form-group">
+        <input type="text" name="query" class="form-control" placeholder="Buscar amigos">
+    </div>
+    <button type="submit" class="btn btn-primary btn-sm mt-3 mb-3">Buscar</button>
+</form>
+
+<table class="table text-center mb-3">
+    <tr class="table-primary">
+        <td>Aniversariantes do Dia</td>
+    </tr>
+    @foreach (var amg in ViewBag.Aniversariantes)
+    {
+        <tr>
+            <td>@amg.Nome @amg.Sobrenome</td>
+        </tr>
+    }
+</table>
+
+<h4>Todos seus amigos</h4>
+<table class="table mt-3">
+    <tr>
+        <td>Id</td>
+        <td>Nome</td>
+        <td>Aniversário</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    @foreach (var amigo in ViewBag.Todos)
+    {
+        <tr>
+            <td>@amigo.Id</td>
+            <td>@amigo.Nome @amigo.Sobrenome</td>
+            <td>@amigo.Aniversario.ToString("dd/MM/yyyy")</td>
+            <td>
+                <a class="btn btn-primary" asp-action="Detail" asp-controller="Amigo" asp-route-amigoId="@amigo.Id">Ver Detalhes</a>
+            </td>
+            <td>
+                <a class="btn btn-warning" asp-action="Update" asp-controller="Amigo" asp-route-amigoId="@amigo.Id">Editar</a>
+            </td>
+            <td>
+                <a class="btn btn-danger" onclick="return confirm('Você realmente deseja deletar esse amigo?')" asp-action="Delete" asp-controller="Amigo" asp-route-amigoId="@amigo.Id">Deletar</a>
+            </td>
+
+        </tr>
+    }
+
+</table>

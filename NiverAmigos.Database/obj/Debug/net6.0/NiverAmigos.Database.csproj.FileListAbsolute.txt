@@ -1,0 +1,15 @@
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Database\bin\Debug\net6.0\NiverAmigos.Database.deps.json
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Database\bin\Debug\net6.0\NiverAmigos.Database.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Database\bin\Debug\net6.0\NiverAmigos.Database.pdb
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Database\bin\Debug\net6.0\NiverAmigos.Entidade.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Database\bin\Debug\net6.0\NiverAmigos.Entidade.pdb
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Database\obj\Debug\net6.0\NiverAmigos.Database.csproj.AssemblyReference.cache
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Database\obj\Debug\net6.0\NiverAmigos.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Database\obj\Debug\net6.0\NiverAmigos.Database.AssemblyInfoInputs.cache
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Database\obj\Debug\net6.0\NiverAmigos.Database.AssemblyInfo.cs
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Database\obj\Debug\net6.0\NiverAmigos.Database.csproj.CoreCompileInputs.cache
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Database\obj\Debug\net6.0\NiverAmigos.Database.csproj.CopyComplete
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Database\obj\Debug\net6.0\NiverAmigos.Database.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Database\obj\Debug\net6.0\refint\NiverAmigos.Database.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Database\obj\Debug\net6.0\NiverAmigos.Database.pdb
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Database\obj\Debug\net6.0\ref\NiverAmigos.Database.dll

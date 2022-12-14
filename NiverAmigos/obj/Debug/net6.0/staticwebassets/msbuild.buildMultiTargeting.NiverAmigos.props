@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NiverAmigos.props" />
+</Project>

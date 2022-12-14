@@ -1,0 +1,32 @@
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Application\bin\Debug\net6.0\NiverAmigos.Application.deps.json
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Application\bin\Debug\net6.0\NiverAmigos.Application.dll
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Application\bin\Debug\net6.0\NiverAmigos.Application.pdb
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Application\bin\Debug\net6.0\NiverAmigos.Entidade.dll
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Application\bin\Debug\net6.0\NiverAmigos.Entidade.pdb
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Application\obj\Debug\net6.0\NiverAmigos.Application.csproj.AssemblyReference.cache
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Application\obj\Debug\net6.0\NiverAmigos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Application\obj\Debug\net6.0\NiverAmigos.Application.AssemblyInfoInputs.cache
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Application\obj\Debug\net6.0\NiverAmigos.Application.AssemblyInfo.cs
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Application\obj\Debug\net6.0\NiverAmigos.Application.csproj.CoreCompileInputs.cache
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Application\obj\Debug\net6.0\NiverAmigos.Application.csproj.CopyComplete
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Application\obj\Debug\net6.0\NiverAmigos.Application.dll
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Application\obj\Debug\net6.0\refint\NiverAmigos.Application.dll
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Application\obj\Debug\net6.0\NiverAmigos.Application.pdb
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Application\obj\Debug\net6.0\ref\NiverAmigos.Application.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Application\bin\Debug\net6.0\NiverAmigos.Application.deps.json
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Application\bin\Debug\net6.0\NiverAmigos.Application.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Application\bin\Debug\net6.0\NiverAmigos.Application.pdb
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Application\bin\Debug\net6.0\NiverAmigos.Entidade.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Application\bin\Debug\net6.0\NiverAmigos.Entidade.pdb
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Application\obj\Debug\net6.0\NiverAmigos.Application.csproj.AssemblyReference.cache
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Application\obj\Debug\net6.0\NiverAmigos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Application\obj\Debug\net6.0\NiverAmigos.Application.AssemblyInfoInputs.cache
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Application\obj\Debug\net6.0\NiverAmigos.Application.AssemblyInfo.cs
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Application\obj\Debug\net6.0\NiverAmigos.Application.csproj.CoreCompileInputs.cache
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Application\obj\Debug\net6.0\NiverAmigos.Application.csproj.CopyComplete
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Application\obj\Debug\net6.0\NiverAmigos.Application.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Application\obj\Debug\net6.0\refint\NiverAmigos.Application.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Application\obj\Debug\net6.0\NiverAmigos.Application.pdb
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Application\obj\Debug\net6.0\ref\NiverAmigos.Application.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Application\bin\Debug\net6.0\NiverAmigos.Database.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Application\bin\Debug\net6.0\NiverAmigos.Database.pdb

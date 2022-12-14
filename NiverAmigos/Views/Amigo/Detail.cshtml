@@ -1,0 +1,8 @@
+﻿@model NiverAmigos.Entidade.Amigo
+
+
+<h1>@Model.Sobrenome, @Model.Nome</h1>
+<br />
+<h2>Data de Aniversário: @Model.Aniversario.ToString("dd/MM/yyyy")</h2>
+<br />
+<a class="btn btn-primary" asp-action="Index" asp-controller="Amigo">Voltar</a>

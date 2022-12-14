@@ -1,0 +1,42 @@
+﻿@using NiverAmigos.Entidade
+@model List<Amigo>
+
+<form method="get" asp-controller="Amigo" asp-action="Search">
+    <div class="form-group">
+        <input type="text" name="query" class="form-control" placeholder="Buscar amigos">
+    </div>
+    <button type="submit" class="btn btn-primary btn-sm mt-3 mb-3">Buscar</button>
+</form>
+
+<h4>@ViewBag.Search</h4>
+
+<table class="table">
+    <tr>
+        <td>Id</td>
+        <td>Nome</td>
+        <td>Aniversário</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Nome @item.Sobrenome</td>
+            <td>@item.Aniversario.ToString("dd/MM/yyyy")</td>
+            <td>
+                <a class="btn btn-primary" asp-action="Detail" asp-controller="Amigo" asp-route-amigoId="@item.Id">Ver Detalhes</a>
+            </td>
+            <td>
+                <a class="btn btn-warning" asp-action="Update" asp-controller="Amigo" asp-route-amigoId="@item.Id">Editar</a>
+            </td>
+            <td>
+                <a class="btn btn-danger" onclick="return confirm('Você realmente deseja deletar esse amigo?')" asp-action="Delete" asp-controller="Amigo" asp-route-amigoId="@item.Id">Deletar</a>
+            </td>
+
+        </tr>
+    }
+
+</table>

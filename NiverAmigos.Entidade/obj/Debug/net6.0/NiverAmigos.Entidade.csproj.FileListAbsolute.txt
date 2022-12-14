@@ -1,0 +1,24 @@
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Entidade\bin\Debug\net6.0\NiverAmigos.Entidade.deps.json
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Entidade\bin\Debug\net6.0\NiverAmigos.Entidade.dll
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Entidade\bin\Debug\net6.0\NiverAmigos.Entidade.pdb
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Entidade\obj\Debug\net6.0\NiverAmigos.Entidade.csproj.AssemblyReference.cache
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Entidade\obj\Debug\net6.0\NiverAmigos.Entidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Entidade\obj\Debug\net6.0\NiverAmigos.Entidade.AssemblyInfoInputs.cache
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Entidade\obj\Debug\net6.0\NiverAmigos.Entidade.AssemblyInfo.cs
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Entidade\obj\Debug\net6.0\NiverAmigos.Entidade.csproj.CoreCompileInputs.cache
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Entidade\obj\Debug\net6.0\NiverAmigos.Entidade.dll
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Entidade\obj\Debug\net6.0\refint\NiverAmigos.Entidade.dll
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Entidade\obj\Debug\net6.0\NiverAmigos.Entidade.pdb
+C:\Users\rabe\OneDrive - GFT Technologies SE\Documents\NiverAmigos\NiverAmigos.Entidade\obj\Debug\net6.0\ref\NiverAmigos.Entidade.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Entidade\bin\Debug\net6.0\NiverAmigos.Entidade.deps.json
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Entidade\bin\Debug\net6.0\NiverAmigos.Entidade.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Entidade\bin\Debug\net6.0\NiverAmigos.Entidade.pdb
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Entidade\obj\Debug\net6.0\NiverAmigos.Entidade.csproj.AssemblyReference.cache
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Entidade\obj\Debug\net6.0\NiverAmigos.Entidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Entidade\obj\Debug\net6.0\NiverAmigos.Entidade.AssemblyInfoInputs.cache
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Entidade\obj\Debug\net6.0\NiverAmigos.Entidade.AssemblyInfo.cs
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Entidade\obj\Debug\net6.0\NiverAmigos.Entidade.csproj.CoreCompileInputs.cache
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Entidade\obj\Debug\net6.0\NiverAmigos.Entidade.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Entidade\obj\Debug\net6.0\refint\NiverAmigos.Entidade.dll
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Entidade\obj\Debug\net6.0\NiverAmigos.Entidade.pdb
+C:\Users\rabe\projetos\NiverAmigos\NiverAmigos.Entidade\obj\Debug\net6.0\ref\NiverAmigos.Entidade.dll
